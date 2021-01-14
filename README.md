@@ -20,6 +20,7 @@ this date. The "goal" field refers to the presence of heart disease in the patie
 * the slope of the peak exercise ST segment
 * number of major vessels (0-3) colored by flourosopy
 * thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
+
 The names and social security numbers of the patients were recently removed from the database, replaced with dummy values. One file has been "processed", that one containing the Cleveland database. All four unprocessed files also exist in this directory.
 
 To see Test Costs (donated by Peter Turney), please see the folder "Costs"
